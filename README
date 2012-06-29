@@ -1,0 +1,11 @@
+# Random CC Generator
+
+A very basic costume-contest (known as a 'cc') catagory randomizer
+I created for my supergroup guild in Champions Online
+http://spearchampions.freeforums.org/
+
+Some catagories overlap in similarity, like Sexy and Cute, or Scary
+and Intimidating. This script ensures that both options in a similar
+catagory cannot be returned for the final result, but also makes
+the list randomized more so that neither option could be returned 
+in the final result as well.
